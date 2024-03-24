@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there,
+## I am Aleksei Shmakov
 
-<!--
-**Str4ch/Str4ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Contacts:
+[![Linkedin Badge](https://img.shields.io/badge/-Aleksei_Shmakov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksei-shmakov-a8b6a5294//)](https://www.linkedin.com/in/aleksei-shmakov-a8b6a5294) 
+[![Gmail Badge](https://img.shields.io/badge/-shmakovalexey91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shmakovalexey91@gmail.com)](mailto:shmakovalexey91@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-Here are some ideas to get you started:
+-  **Learning :** Game developmant | Computer science
+-  **Languages :** Python, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Current situation
+
+- Computer science major, bachelor, first year
+- Open to interesting offers and projects
