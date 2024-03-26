@@ -17,4 +17,6 @@
 - Computer science major, bachelor, first year
 - Open to interesting offers and projects
 
+
+### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Str4ch)](https://github.com/Str4ch/github-readme-stats)
