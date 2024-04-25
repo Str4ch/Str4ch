@@ -19,4 +19,4 @@
 
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Str4ch)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Str4ch)
