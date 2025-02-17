@@ -14,7 +14,7 @@
 
 ### Current situation
 
-- Computer science major, bachelor, first year
+- Computer science major, bachelor
 - Open to interesting offers and projects
 
 
