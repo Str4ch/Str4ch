@@ -5,11 +5,24 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Aleksei_Shmakov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksei-shmakov-a8b6a5294//)](https://www.linkedin.com/in/aleksei-shmakov-a8b6a5294) 
 [![Gmail Badge](https://img.shields.io/badge/-shmakovalexey91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shmakovalexey91@gmail.com)](mailto:shmakovalexey91@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
-
--  **Learning :** Game development | Computer science
--  **Languages :** Python, C++
-
+```cpp
+class Dev{
+    private:
+        std::string name = "Aleksei Shmakov";
+        std::vector<std::string> languages = {"C++", "Java", "C#", "Python"};;
+        std::vector<std::string> frameworks = {"Qt", "Boost", "Flask", "Django", "Spring", "ASP.NET"};;
+        std::vector<std::string> tools = {"CMake", "QMake", "MSVC", "GCC", "Clang", "SFML", "WinAPI", "Maven", "Gradle", "Docker"};
+        std::vector<std::string> cloud =  {"AWS", "Microsoft Azure", "Google Cloud Platform"};
+        std::vector<std::string> databases =  {"MySQL", "PostgreSQL", "SQL server", "MongoDB", "Redis", "Neo4j"};
+    public:
+        void sleep(){std::this_thread::sleep_for(std::chrono::hours(5));};
+        void procrastinate();
+        void code();
+        void study();
+        Dev();
+        ~Dev();
+};
+```
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Current situation
