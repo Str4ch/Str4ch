@@ -11,7 +11,7 @@ class Dev{
         std::string name = "Aleksei Shmakov";
         std::vector<std::string> languages = {"C++", "Java", "C#", "Python"};;
         std::vector<std::string> frameworks = {"Qt", "Boost", "Flask", "Django", "Spring", "ASP.NET"};;
-        std::vector<std::string> tools = {"CMake", "QMake", "MSVC", "GCC", "Clang", "SFML", "WinAPI", "Maven", "Gradle", "Docker"};
+        std::vector<std::string> tools = {"CMake", "QMake", "GCC", "SFML", "WinAPI", "Maven", "Gradle", "Docker"};
         std::vector<std::string> cloud =  {"AWS", "Microsoft Azure", "Google Cloud Platform"};
         std::vector<std::string> databases =  {"MySQL", "PostgreSQL", "SQL server", "MongoDB", "Redis", "Neo4j"};
     public:
