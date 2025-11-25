@@ -1,9 +1,17 @@
 ## Hi there
 ## I am Aleksei Shmakov
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Skils](https://skillicons.dev/icons?i=c,cpp,cmake,qt,cs,dotnet,unity,py,django,flask,rabbitmq,java,gradle,maven,spring,aws,azure,gcp,git,github,githubactions,docker,linux,nix,ubuntu,debian,mysql,postgres,mongodb,redis,postman,neovim,raspberrypi,bash&perline=17)
 
-![Tools](https://skillicons.dev/icons?i=)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### About
+
+I am passionate about building apps, implementing different algorithms and learning new cool stuff. Mainly I am focused on studying C++.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-Aleksei_Shmakov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksei-shmakov-a8b6a5294//)](https://www.linkedin.com/in/aleksei-shmakov-a8b6a5294) 
@@ -29,12 +37,7 @@ class Dev{
 ```
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Current situation
-
-- Computer science major, bachelor
-- Open to interesting offers and projects
-
-
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Str4ch\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+ <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Str4ch&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
