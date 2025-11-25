@@ -1,20 +1,13 @@
 ## Hi there
 ## I am Aleksei Shmakov
 
-![C/C++](https://skillicons.dev/icons?i=c,cpp,cmake,qt,clion,visualstudio)
-
-![Python](https://skillicons.dev/icons?i=py,django,flask,rabbitmq,pycharm)
-
-![CSharp](https://skillicons.dev/icons?i=cs,dotnet,unity,rider)
-
-![Java](https://skillicons.dev/icons?i=java,gradle,maven,spring,idea)
-
-![CI/CD](https://skillicons.dev/icons?i=aws,azure,gcp,git,github,githubactions,docker)
-
-![Linux](https://skillicons.dev/icons?i=linux,nix,ubuntu,debian)
-
-![(No)SQL](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)
-
+![C/C++](https://skillicons.dev/icons?i=c,cpp,cmake,qt,clion,visualstudio) |
+![Python](https://skillicons.dev/icons?i=py,django,flask,rabbitmq,pycharm) |
+![CSharp](https://skillicons.dev/icons?i=cs,dotnet,unity,rider) |
+![Java](https://skillicons.dev/icons?i=java,gradle,maven,spring,idea) |
+![CI/CD](https://skillicons.dev/icons?i=aws,azure,gcp,git,github,githubactions,docker) |
+![Linux](https://skillicons.dev/icons?i=linux,nix,ubuntu,debian) |
+![(No)SQL](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis) |
 ![Tools](https://skillicons.dev/icons?i=postman,neovim,raspberrypi,bash,vscode)
 
 #### Contacts:
