@@ -38,6 +38,7 @@ class Dev{
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Stats
-![Top Langs](https://stats-rouge-pi.vercel.app/api/top-langs/?username=Str4ch&hide=javascript,php,html,typescript,css)
-![GH stats](https://stats-rouge-pi.vercel.app/api/?username=Str4ch&hide=issues)
+![Top Langs](https://stats-rouge-pi.vercel.app/api/top-langs/?username=Str4ch&hide=javascript,php,html,typescript,css&theme=dark&layout=donut)
+
+![GH stats](https://stats-rouge-pi.vercel.app/api/?username=Str4ch&hide=issues&theme=dark)
 
